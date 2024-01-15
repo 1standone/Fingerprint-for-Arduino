@@ -1,5 +1,6 @@
 # Fingerprint-for-Arduino Uno
 
-You need Adafruit Fingerprint library to run this
+Library used : Adafruit Fingerprint
+Board : Arduino Uno R3
 
 References : https://www.youtube.com/@hashincludeelectronics
